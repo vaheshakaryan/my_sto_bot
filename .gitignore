@@ -1,10 +1,7 @@
-# Գաղտնի տվյալներ
 config.py
 creds.json
 
-# Վիրտուալ միջավայր
 venv/
 
-# Python-ի ժամանակավոր ֆայլեր
 __pycache__/
 *.pyc
